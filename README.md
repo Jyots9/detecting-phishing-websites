@@ -34,6 +34,7 @@ DATASET COLLECTION:
 HYPERPARAMETER TUNING:
 
 The top three models with the highest accuracy were selected, and the Grid Search was used to fine-tune their parameters.
+
 ENSEMBLE Technique:
 
 Objective here is to make more stable model,than focussing on the accuracy. Voting is used where these 3 models in final are merged
