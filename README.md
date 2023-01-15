@@ -10,14 +10,19 @@ DATASET COLLECTION:
  FEATURE EXTRACTION:
  
  The following feature categories were taken from the URL data:
+ 
     1.Address Bar based Features
           In this category 9 features are extracted.
+          
     2.Domain based Features
           In this category 4 features are extracted.
+          
     3.HTML & Javascript based Features
           In this category 4 features are extracted.
+          
   All together 17 features are extracted from the 3000 URL dataset and are stored in 'final_data.csv' file.
   The features are referenced from the https://archive.ics.uci.edu/ml/datasets/Phishing+Websites.
+  
   
   MODELS & TRAINING:
   
