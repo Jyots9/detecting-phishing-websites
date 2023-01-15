@@ -1,8 +1,10 @@
 # detecting-phishing-websites
-OBJECTIVE
+OBJECTIVE :
+
 The goal of this research is to train deep neural networks and machine learning models using the dataset produced to identify phishing websites. The necessary URL- and website content-based attributes are retrieved from the dataset formed by the collection of both phishing and benign URLs of websites. Every model's performance is measured and contrasted.
 
-DATASET COLLECTION
+DATASET COLLECTION:
+
  https://www.unb.ca/cic/datasets/url-2016.html. This dataset has a collection of benign, spam, phishing, malware & defacement URLs. Out of all these types, the benign and phishing url dataset are considered for this project. From this dataset, 1500 random legitimate and phishing URLs (each) are collected to train the ML models.
  
  FEATURE EXTRACTION
